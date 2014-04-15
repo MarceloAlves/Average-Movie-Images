@@ -2,6 +2,8 @@
 
 Inspired by this [reddit thread](http://www.reddit.com/r/movies/comments/22fsve/wrote_a_script_to_average_each_frame_of_popular/), this script will take all images from a movie, grab each pixel RGB value, add them together then take the average and create a final image like this:
 
+![Frozen](samples/frozen.png)
+
 ![The Great Gatsby](samples/the-great-gatsby.png)
 
 ### Requirements
